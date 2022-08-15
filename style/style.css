@@ -1,0 +1,70 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+
+.sec1{
+    background-color:hsl(212, 45%, 89%);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.qr-card{
+    background-color: hsl(0, 0%, 100%);
+    width: 50vh;
+    height: 74vh;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.qr-card h1, p{
+    width: 86%;
+    text-align: center;
+    margin: auto;
+    margin-top: 14px;
+}
+
+.qr-card h1{
+    color: hsl(218, 44%, 22%);
+    font-size:large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.qr-card p{
+color: hsl(220, 15%, 55%);
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: medium;
+}
+
+.qrCode {
+    background-image: url(/images/image-qr-code.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 60%;
+    width: 90%;
+    margin: auto;
+    margin-top: 16px;
+    border-radius: 6px;
+}
+
+@media only screen and (max-width: 375px){
+
+    .qr-card h1{
+        font-size:medium;
+    }
+    
+    .qr-card p{
+    font-size: small;
+    }
+
+    .attribution{
+        width: 80%;
+        font-size: medium;
+        text-align: center;
+    }
+}
