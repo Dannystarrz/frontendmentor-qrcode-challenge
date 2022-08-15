@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:(https://github.com/Dannystarrz/frontendmentor-qrcode-challenge)
+- Live Site URL:(https://dannystarrz.github.io/frontendmentor-qrcode-challenge/)
 
 ## My process
   I sloved this challenge by first laying out the elements using HTML
@@ -48,7 +48,7 @@ I got to learn how to align elements horizontally and vertically simultaneously 
 
 ## Author
 
-- Website - [Onyekachi Daniel Ebiringa](https://www.your-site.com)
+- Website - [Onyekachi Daniel Ebiringa](https://dannystarrz.github.io/frontendmentor-qrcode-challenge/)
 - Frontend Mentor - [@Dannystarrz](https://www.frontendmentor.io/profile/Dannystarrz)
 - Twitter - [@DannyStar007](https://twitter.com/DannyStar007)
 
